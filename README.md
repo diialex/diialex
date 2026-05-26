@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI1eGZ4Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v365851508/giphy.gif" width="22px"> ~/sobre-mi.txt
+### <img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI1eGZ4Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v365851508/giphy.gif" width="22px](https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif)](https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif)"> ~/sobre-mi.txt
 
 - 🎓 Finalizando **Grado en Ingeniería Informática** (Mención en `Sistemas de Información`) en la Universidad Pablo de Olavide.
 - 🛡️ Seleccionado **Top 100 Nacional** en el Cyber Bootcamp Google-UMA.
