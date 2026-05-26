@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zicjd6M3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13yIHM31x/+mAnfF/giphy.gif" width="35"> 
+  <img src="https://tenor.com/view/cat-gif-14087697313482866514" width="35"> 
   SYSTEM_INIT: Alejandro Romero
 </h1>
 
