@@ -27,14 +27,79 @@
 
 ### <img src="https://media.tenor.com/3sptHcQIw7oAAAAi/bubbles.gif" width="22px"> ~/capabilities_matrix.sh
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `C` `Java` `Python` `PHP` `JavaScript` `Ruby` `CUDA` |
-| **Cyber / Auditoría** | `Nmap` `Wireshark` `Magerit` `OSINT` `Malware Analysis` `Iptables` |
-| **DevOps / CI** | `Docker` `Jenkins` `GitHub Actions` `Maven` `VirtualBox` |
-| **Frameworks** | `Laravel` `FastAPI` `Hibernate` `Struts2` `Selenium` `jMeter` |
-| **Sistemas / Redes** | `Linux (Parrot/Ubuntu)` `ROS2` `Arduino` `Bash Scripting` |
-| **Bases de Datos** | `Oracle` `MySQL` `MongoDB` `Qdrant (Vectorial)` |
+<br>
+
+<!-- LENGUAJES -->
+<p align="center"> 
+  &emsp; 
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a> 
+  &emsp;
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+  &emsp;
+  <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=plastic&logo=nvidia&logoColor=white"></a>
+</p>
+
+<!-- FRAMEWORKS & HERRAMIENTAS -->
+<p align="center"> 
+  &emsp; 
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"></a>   
+  &emsp;
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white"></a> 
+  &emsp;
+  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=plastic&logo=hibernate&logoColor=white"></a>
+  &emsp; 
+  <a href="#"><img alt="Struts2" src="https://img.shields.io/badge/Struts2-%23ED1C24.svg?style=plastic&logo=apachestruts&logoColor=white"></a>
+  &emsp; 
+  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white"></a>
+  &emsp; 
+  <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=plastic&logo=apachemaven&logoColor=white"></a>
+</p>
+
+<!-- SISTEMAS & DEVOPS -->
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Parrot OS" src="https://img.shields.io/badge/Parrot_OS-%2338B6AD.svg?style=plastic&logo=parrotsecurity&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=plastic&logo=githubactions&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=plastic&logo=gnubash&logoColor=white"></a>
+</p>
+
+<!-- CIBERSEGURIDAD, BD & HARDWARE -->
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-%232A2F3D.svg?style=plastic"></a>
+  &emsp;
+  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=plastic&logo=arduino&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="ROS2" src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=plastic&logo=ros&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-%23000000.svg?style=plastic&logo=qdrant&logoColor=white"></a>
+</p>
+
+<br>
 
 ---
 
