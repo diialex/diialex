@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v365851508/giphy.gif" width="22px"> 
+  <img src="https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif" width="22px"> 
   SYSTEM_INIT: Alejandro Romero
 </h1>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="https://media1.tenor.com/m/w4GOERle_1IAAAAd/cat.gif" width="22px"> ~/sobre-mi.txt
+### <img src="https://media1.tenor.com/m/w4GOERle_1IAAAAC/cat.gif" width="22px"> ~/sobre-mi.txt
 
 - 🎓 Finalizando **Grado en Ingeniería Informática** (Mención en `Sistemas de Información`) en la Universidad Pablo de Olavide.
 - 🛡️ Seleccionado **Top 100 Nacional** en el Cyber Bootcamp Google-UMA.
