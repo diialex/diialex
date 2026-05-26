@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/NnJae5EoiXwAAAAj/cute-happy.gif" width="22px"> 
-  SYSTEM_INIT: Alejandro Romero
+  <img src="https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif" width="22px"> 
+  SYSTEM_INIT: Alejandro Romero Delgado
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="https://media1.tenor.com/m/w4GOERle_1IAAAAC/cat.gif" width="22px"> ~/sobre-mi.txt
+### <img src="https://media.tenor.com/NnJae5EoiXwAAAAj/cute-happy.gif" width="35px"> ~/sobre-mi.txt
 
 - 🎓 Finalizando **Grado en Ingeniería Informática** (Mención en `Sistemas de Información`) en la Universidad Pablo de Olavide.
 - 🛡️ Seleccionado **Top 100 Nacional** en el Cyber Bootcamp Google-UMA.
