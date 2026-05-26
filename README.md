@@ -25,7 +25,7 @@
 
 ---
 
-### <img src="https://media.tenor.com/3sptHcQIw7oAAAAi/bubbles.gif" width="25px"> ~/capabilities_matrix.sh
+### <img src="https://media.tenor.com/3sptHcQIw7oAAAAi/bubbles.gif" width="22px"> ~/capabilities_matrix.sh
 
 | Categoría | Tecnologías |
 | :--- | :--- |
