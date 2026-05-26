@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif" width="22px"> 
+  <img src="https://media.tenor.com/NnJae5EoiXwAAAAj/cute-happy.gif" width="22px"> 
   SYSTEM_INIT: Alejandro Romero
 </h1>
 
