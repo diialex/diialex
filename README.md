@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="https://media.tenor.com/NnJae5EoiXwAAAAj/cute-happy.gif" width="26px"> ~/sobre-mi.txt
+### <img src="https://media.tenor.com/NnJae5EoiXwAAAAj/cute-happy.gif" width="35px"> ~/sobre-mi.txt
 
 - 🎓 Finalizando **Grado en Ingeniería Informática** (Mención en `Sistemas de Información`) en la Universidad Pablo de Olavide.
 - 🛡️ Seleccionado **Top 100 Nacional** en el Cyber Bootcamp Google-UMA.
