@@ -103,7 +103,7 @@
 
 ---
 
-### <img src="https://media.tenor.com/QzWEkL5n60QAAAAj/battery-charging.gif" width="22px"> ~/system_metrics.log
+### <img src="https://media.tenor.com/88asD3qjeMUAAAAi/full-battery.gif" width="22px"> ~/system_metrics.log
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diialex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
