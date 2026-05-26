@@ -21,8 +21,7 @@
 - 🛡️ Seleccionado **Top 100 Nacional** en el Cyber Bootcamp Google-UMA.
 - 🇮🇹 Erasmus+ en la **Universidad de Bolonia** | Italiano B2.
 - 🛠️ Interesado en **Ciberseguridad, DevSecOps, Sistemas Inteligentes e Infraestructura IT**.
-- 🐧 Usuario avanzado de **Linux** (Parrot OS, Ubuntu).
-- 📍 Basado en **Sevilla, España**.
+- 🐧 Usuario de **Linux** (Parrot OS, Ubuntu).
 
 ---
 
