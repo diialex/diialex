@@ -106,8 +106,8 @@
 ### <img src="https://media.tenor.com/88asD3qjeMUAAAAi/full-battery.gif" width="22px"> ~/system_metrics.log
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diialex&show_icons=true&theme=tokyonight&hide_border=true&hide_bg=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diialex&layout=compact&theme=tokyonight&hide_border=true&hide_bg=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-taupe-two.vercel.app/api?username=diialex&show_icons=true&theme=tokyonight&hide_border=true&hide_bg=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-taupe-two.vercel.app/api/top-langs?username=diialex&layout=compact&theme=tokyonight&hide_border=true&hide_bg=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
