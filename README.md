@@ -25,7 +25,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI1eGZ4Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v365851508/giphy.gif" width="22px"> ~/capabilities_matrix.sh
+### <img src="https://media.tenor.com/3sptHcQIw7oAAAAi/bubbles.gif" width="35px"> ~/capabilities_matrix.sh
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -35,22 +35,6 @@
 | **Frameworks** | `Laravel` `FastAPI` `Hibernate` `Struts2` `Selenium` `jMeter` |
 | **Sistemas / Redes** | `Linux (Parrot/Ubuntu)` `ROS2` `Arduino` `Bash Scripting` |
 | **Bases de Datos** | `Oracle` `MySQL` `MongoDB` `Qdrant (Vectorial)` |
-
----
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI1eGZ4Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v365851508/giphy.gif" width="22px"> ~/connect_with_me.exe
-
-<p align="left">
-  <a href="mailto:alejandro@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tu-portfolio.me">
-    <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
 
 ---
 
